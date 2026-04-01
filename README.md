@@ -20,7 +20,7 @@ Short reference documents focused on disciplined LLM-assisted engineering workfl
 
 - `best-practices-for-constrained-environment-development.md`
   Guidance for using models inside a controlled development loop anchored to project assets, focused validation, and explicit QA.
-- `best-practices-for-modern-deveopment.md`
+- `best-practices-for-modern-development.md`
   General best practices for using coding models in modern software delivery with milestone-based review and workflow validation.
 - `practical-checklist.md`
   Condensed checklist for preparation, generation, validation, diagnosis, and completion review.
